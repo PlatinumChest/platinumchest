@@ -1,5 +1,11 @@
-## Hi there 👋
+# Hi there, I am Alexander Castellanos 👋
 
+I am a student who is passionate about computer engineering, AI, and cybersecurity. I build lots of things inside of my homelab, I explore system-level programming, and plan to work on some open-source projects!
+
+- 🧠 Currently Learning: CS50x, self-hosted AI tools, and advanced level Linux CLI
+- ⚙️ Currently Building: A distributes compute cluster using some HP servers that run Debian
+- 🌐 My Website: [svatantrata.net](https://svatantrata.net) (Coming soon)
+- 🎓 Education: BTC Network Support Specialist and RUHS 2026 | Previous BTC IT Intern 
 <!--
 **PlatinumChest/platinumchest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
